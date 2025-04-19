@@ -80,7 +80,8 @@ export default function Home() {
             const headingText = val.substring(3);
             return (
               <div key={index} className="flex items-center group mb-2">
-                <h1 className="text-2xl font-bold flex-grow">{headingText}</h1>
+                <h1 className="text-2xl font-bold flex-grow">{headingText.charAt(0).toUpperCase() + headingText.slice(1)}
+                </h1>
                 <button
                   onClick={() => remove(index)}
                   className="opacity-0 group-hover:opacity-100 text-red-500 ml-2"
@@ -95,7 +96,7 @@ export default function Home() {
       </div>
       <div className="relative w-1/2 m-auto">
         <input
-          className="flex p-5 m-auto w-full text-[#4d5562] text-2xl border-none"
+          className="flex p-5 m-auto w-full text-[#4d5562] text-2xl border-none focus:border-none focus:outline-none focus:ring-0"
           placeholder="Heading 1"
           value={title}
           onChange={filterData}
