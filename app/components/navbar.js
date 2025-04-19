@@ -8,7 +8,7 @@ import { faChevronDown } from "@fortawesome/free-solid-svg-icons";
 
 const Navbar = () => {
     return (
-        <nav className=" flex  text-center justify-between  mt-3 border-t boder-[#E5E7EB] pt-2">
+        <nav className=" flex  text-center justify-between  mt-3 border-t border-[#DBDCDD] pt-2">
             <ul className="flex text-center nav-color text-1xl mt-3">
                 <Image src={chevron} alt="chevrons" className="ml-6" width={16} height={16} />
                 <li className="flex ml-10 nav-color">

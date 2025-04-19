@@ -95,8 +95,8 @@ export default function Home() {
       </div>
       <div className="relative w-1/2 m-auto">
         <input
-          className="flex p-5 m-auto w-full"
-          placeholder="Heading"
+          className="flex p-5 m-auto w-full text-[#4d5562] text-2xl border-none"
+          placeholder="Heading 1"
           value={title}
           onChange={filterData}
           onKeyDown={saveTitle}
