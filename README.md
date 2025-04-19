@@ -1,36 +1,110 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<a name="readme-top"></a>
+<div align="center">
 
-## Getting Started
+  <h3><b>HelpJuice-test-project</b></h3>
 
-First, run the development server:
+</div>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+# 📗 Table of Contents
+
+- [📖 My Portfolio](#HelpJuice-test-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Live Demo](#live-demo)
+- [👥 Authors](#authors)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [📝 License](#license)
+
+# 📖 [HelpJuice-test-project] <a name="HelpJuice-test-project"></a>
+**[HelpJuice-test-project]** Goal is to make a page that looks exactly like this one, and has the ability to create H1 text simply by typing / then 1, typing text, and hitting enter..
+
+## 🛠 Built With <a name="built-with"></a>
+
+### Tech Stack <a name="tech-stack"></a>
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li>JavaScript</li>
+    <li>Next.js</li>
+    <li>Tailwind CSS</li>
+    <li>HTM5L5</li>
+    <li>CSS</li>
+    <li>FontAwesome</li>
+  </ul>
+</details>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+To get a local copy up and running, follow these steps.
+
+### Setup
+
+Clone this repository to your desired folder:
+
+```sh
+  cd helpjuice_project
+  git clone https://github.com/Surafels/helpjuice_project
 ```
+### Install
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+```sh
+  cd helpjuice_project
+  npm install
+```
+### Usage
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+To run the project run :
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+    npm run dev
 
-## Learn More
+### 🚀 Live Demo
 
-To learn more about Next.js, take a look at the following resources:
+ [Live demo link](https://helpjuice-project-lemon.vercel.app/)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 👥 Authors <a name="authors"></a>
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+👤 **Surafel Samson **
+
+- GitHub: [@Surafels](https://github.com/Surafels)
+- LinkedIn: [surafel-samson](https://www.linkedin.com/in/surafel-samson/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/Surafels/helpjuice_project/issues).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## ⭐️ Show your support <a name="support"></a>
+
+If you like this project please put a star.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+I want to thank [HelpJuice](https://helpjuice.com/).
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+## 📝 License <a name="license"></a>
+
+This project is [LICENSE](./LICENSE) licensed.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
