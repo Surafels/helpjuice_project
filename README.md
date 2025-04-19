@@ -7,7 +7,7 @@
 
 # 📗 Table of Contents
 
-- [📖 My Portfolio](#HelpJuice-test-project)
+- [📖 Helpjuice Project](#HelpJuice-test-project)
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
 - [💻 Getting Started](#getting-started)
